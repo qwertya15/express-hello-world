@@ -1,3 +1,5 @@
+# NOTE: Cyclic was shut down in May 2024
+
 # Cyclic - Express Hello World
 
 This is a basic starter Expressjs app with:
